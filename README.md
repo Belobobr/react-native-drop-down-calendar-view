@@ -10,7 +10,7 @@ Tested with react-native 0.20
 
 
 ## Demo
-<a href="https://github.com/Belobobr/react-native-scrollable-calendar-view/tree/master/demo.gif"><img src="https://github.com/Belobobr/react-native-scrollable-calendar-view/tree/master/demo.gif" width="350"></a>
+<a href="https://github.com/Belobobr/react-native-scrollable-calendar-view/blob/master/demo.gif"><img src="https://github.com/Belobobr/react-native-scrollable-calendar-view/blob/master/demo.gif" width="180"></a>
 
 ## Basic usage
 
