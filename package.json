@@ -1,0 +1,22 @@
+{
+  "name": "react-native-sliding-calendar-view",
+  "version": "0.1.1",
+  "dependencies": {
+    "moment": "^2.10.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native",
+    "ios",
+    "calendar",
+    "scrollable"
+  ],
+  "author": "Sednev Michail",
+  "license": "MIT"
+}
