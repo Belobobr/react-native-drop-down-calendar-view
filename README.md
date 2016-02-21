@@ -53,7 +53,7 @@ See
 ## Props
 
 - **`selectedDay`** _(Date)_ - selectedDay
-- **`onDaySelected`**  - callback on selected day
+- **`onDaySelected`**  _(callback)_ - on selected day
 ---
 
 **MIT Licensed**
