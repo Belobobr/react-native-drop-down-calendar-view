@@ -1,13 +1,14 @@
 {
   "name": "react-native-sliding-calendar-view",
-  "version": "0.1.3",
+  "version": "0.1.13",
   "dependencies": {
     "moment": "^2.10.6"
   },
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags"
   },
   "keywords": [
     "react-native",
