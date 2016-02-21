@@ -1,6 +1,6 @@
 {
   "name": "react-native-sliding-calendar-view",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "dependencies": {
     "moment": "^2.10.6"
   },
